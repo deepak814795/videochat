@@ -23,7 +23,7 @@ Tech | Description
 
 ```bash
 
-git clone https://github.com/jan-solarski/vooiz-videochat-app.git
+
 
 npm install
 
